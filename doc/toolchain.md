@@ -173,7 +173,7 @@ username@hostname:openocd-git on  master [!?]
 ## Debian (and derivatives)
 The packages needed for Debian are as follows:
 ```
-apt install build-essentials gcc-arm-none-eabi gdb-arm-none-eabi
+apt install build-essential gcc-arm-none-eabi gdb-arm-none-eabi
 ```
 
 OpenOCD can be built as follows:
